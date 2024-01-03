@@ -1,2 +1,2 @@
-# KNN-K-Nearest-Neighbour-
-Day 1: K-Nearest Neighbour 
+<h1 align="center"><b>KNN-K-Nearest-Neighbour</b></h1>
+# Day 1: K-Nearest Neighbour 
